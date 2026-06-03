@@ -236,4 +236,4 @@ session_set_cookie_params(7200);
 
 ---
 
-*School Library Management System — Final Project*
+*School Library Management System — (supposed to) Final Project*
